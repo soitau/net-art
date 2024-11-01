@@ -35,12 +35,12 @@ background-size: cover
   }
   
   .grid-item3:hover {
-    transform: scale(1.5) rotate(30deg);
+    transform: scale(1.5) rotate(60deg);
     background-color: #6a00ff;
   }
   
   .grid-item3:active {
-    transform: scale(1.5) rotate(360deg);
+    transform: scale(1.5) rotate(60deg);
     background-color: #6a00ff;
   }
 
@@ -48,12 +48,12 @@ background-size: cover
     transition: transform 0.5s ease, background-color 0.5s ease;
   }
     .grid-item4:hover {
-    transform: scale(1.1) rotate(90deg);
+    transform: scale(1.1) rotate(45deg);
     background-color: #e511cd;
   }
   
   .grid-item4:active {
-    transform: scale(1.1) rotate(90deg);
+    transform: scale(1.1) rotate(45deg);
     background-color: #e511cd;
   }
 
