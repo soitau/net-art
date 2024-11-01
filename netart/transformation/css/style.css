@@ -61,12 +61,12 @@ background-size: cover
     transition: transform 0.5s ease, background-color 0.5s ease;
   }
     .grid-item5:hover {
-    transform: scale(1.1) rotate(350deg);
+    transform: scale(1.1) rotate(35deg);
     background-color: #f7fafcb3;
   }
   
   .grid-item5:active {
-    transform: scale(1.1) rotate(350deg);
+    transform: scale(1.1) rotate(35deg);
     background-color: #f7fafcb3;
   }
   
