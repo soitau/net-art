@@ -23,6 +23,9 @@ p {
 body {
   font-family: Georgia, 'Times New Roman', Times, serif;
   color:rgb(232, 234, 236);
+  background-size: cover;
+  background-repeat: no-repeat;
  }
+
 
 
