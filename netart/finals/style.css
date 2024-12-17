@@ -27,5 +27,13 @@ body {
   background-repeat: no-repeat;
  }
 
+body {
+  max-width: 35%
+}
+ @media (max-width: 768px){
+ body{
+  max-width: 100%
+ }
+}
 
 
