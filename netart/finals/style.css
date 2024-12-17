@@ -1,0 +1,39 @@
+a:visited {
+    color: salmon;
+    font-style:bold;
+    text-decoration:solid;
+}
+
+a:link {
+  color: red;
+  font-style:bold;
+  text-decoration:solid;
+}
+
+a:hover {
+  color: white;
+}
+
+p {
+    font-size: 20px;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+  }
+
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color:rgb(232, 234, 236);
+  background-size: cover;
+  background-repeat: no-repeat;
+ }
+
+
+ body {
+  max-width: 35%
+}
+ @media (max-width: 768px){
+ body{
+  max-width: 100%
+ }
+}
+
